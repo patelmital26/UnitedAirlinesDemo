@@ -1,5 +1,5 @@
 # UnitedAirlinesDemo
-Selenium Automation
+Using Selenium with Maven and Junit Framework.
 
 - Project Demo using Java Seleiumn WebDriver Automation for United Airlines registration and login page. 
 - Registration test read the data from the excel sheet and imports to the specificed element. 
